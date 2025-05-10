@@ -1,2 +1,2 @@
-# peacenation-gateway
+# peacecoin-gateway
 Frontend for PeaceNation Gateway
