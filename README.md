@@ -4,6 +4,10 @@ src/
 
 index.html
 
-package.json
+"@vitejs/plugin-react": "^4.0.0"
 
 vite.config.js
+"devDependencies": {
+  "vite": "^4.0.0",
+  "@vitejs/plugin-react": "^4.0.0"
+}
