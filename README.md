@@ -1,2 +1,2 @@
 # peacecoin-gateway
-Frontend for PeaceNation Gateway
+Frontend for Peacecoin Gateway
