@@ -1,0 +1,1 @@
+export function Input({ placeholder, className }) { return <input placeholder={placeholder} className={`border p-2 rounded ${className}`} />; }
